@@ -43,7 +43,7 @@
     }
   },
   "dependencies": {
-    "@actions/core": "^3.0.0",
+    "@actions/core": "^3.0.1",
     "@octokit/auth-app": "^8.2.0",
     "@octokit/rest": "^22.0.1"
   },
